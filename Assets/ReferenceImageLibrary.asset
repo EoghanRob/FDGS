@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5037787090453147679
+  m_GuidHigh: 5017937109076959628
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5382055525579128965
+      m_GuidHigh: 2134837806571333299
+    m_SerializedTextureGuid:
+      m_GuidLow: 3752626623863876015
+      m_GuidHigh: 6795901366135505179
+    m_Size: {x: 0.129, y: 0.19815667}
+    m_SpecifySize: 1
+    m_Name: F451
+    m_Texture: {fileID: 2800000, guid: 3a1469af020834141b41194949e44f5e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5414432635646008322
+      m_GuidHigh: 16236248389202868874
+    m_SerializedTextureGuid:
+      m_GuidLow: 14566038448153045260
+      m_GuidHigh: 14783188380429537960
+    m_Size: {x: 0.3073, y: 0.3073}
+    m_SpecifySize: 1
+    m_Name: FalloutAlbum
+    m_Texture: {fileID: 2800000, guid: 5ed8290cf6cbca24a8522fdf816f28cd, type: 3}
