@@ -7,6 +7,6 @@ Augmented reality phone app that shows allows the user to configure a HUD.
 
 Tested on an Android phone.
 
-## Description
+## Issues
 
 No build errors.
