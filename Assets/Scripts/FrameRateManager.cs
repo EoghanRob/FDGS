@@ -6,8 +6,8 @@ public class FrameRateManager : MonoBehaviour
     void Start()
     {
         // Unlock frame rate and disable VSync
-        Application.targetFrameRate = targetFPS; // Set this to 60 FPS or higher if your device allows
-        QualitySettings.vSyncCount = 0;   // Disable VSync to avoid FPS limits
+        Application.targetFrameRate = targetFPS; // Aims for 60 fps
+        QualitySettings.vSyncCount = 0;   // Disable VSync
         Debug.Log("Target Frame Rate set to: " + Application.targetFrameRate);
     }
 }
