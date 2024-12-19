@@ -1,5 +1,4 @@
-# arcore_project_app
-
+# FDGS
 Unity project created for a technical interview with Aegis Rider.
 
 ## Description
